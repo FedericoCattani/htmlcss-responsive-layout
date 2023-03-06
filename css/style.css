@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/*******************************************
+            GENERAL RULES           
+*******************************************/
+
+button{
+  border-radius: 50px;
+  text-align: center;
+  padding: 5px;
+}
+
+.cards{
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  border-radius: 10px;
+}
+
+.d-flex{
+  display: flex;
+}
+
+
+/*******************************************
+            HEADER           
+*******************************************/
